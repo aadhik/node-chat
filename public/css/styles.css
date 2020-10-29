@@ -87,7 +87,6 @@ button:disabled {
 
 .chat {
     display: flex;
-    flex-wrap: wrap
 }
 
 .chat__sidebar {
@@ -95,9 +94,7 @@ button:disabled {
 
     color: white;
     background: #333744;
-    /* width: 225px; */
-    flex: .1%;
-
+     width: 225px;
     overflow-y: scroll
 
 }
